@@ -1,2 +1,2 @@
 # GitubFinder
-Simple application where we can search details of github user using the github api
+React application using the github users api to view the user details as per the username entered
